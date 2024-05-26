@@ -5,7 +5,7 @@
 
 ## **About Me** 🤔
 
-Highly motivated and detail-oriented software engineer with a strong background in AI/ML and a proven track record of delivering high-quality solutions 💻. Passionate about building innovative solutions and collaborating with others to drive success.
+Highly motivated and detail-oriented software engineer with a strong background in AI/ML and a proven track record of delivering high-quality solutions 🚀. Skilled in a range of programming languages, frameworks, and tools, with expertise in data structures, algorithms, and software engineering principles 💻. Proficient in DevOps and Agile methodologies, with experience leading teams and collaborating with cross-functional stakeholders 🤝.
 
 ## **Projects** 🚀
 
@@ -16,54 +16,61 @@ Highly motivated and detail-oriented software engineer with a strong background 
 * **Optimal Path Finder** [(Link)](https://github.com/jaskaur99/Optimal_Path_Finder) 🗺️
 	+ Created an algorithm to determine the shortest path between two points, minimizing distance and optimizing route efficiency.
 
-## **Skills** 🎯
+## **Technical Skills** 🎯
 
-* **Programming languages:** Java, JavaScript, Python, SQL, HTML, CSS 💻
-* **Frameworks/Tools:** SpringBoot, Spring MVC, Rest APIs, SOAP Services, React.js, Node JS, Maven, Gradle 🛠️
-* **AI/ML:** Scikit-Learn, PyTorch, Keras, Neural Networks, Random Forest, Decision Trees 🤖
+##### Programming Languages
+
+* Java: [![Java Badge]((link unavailable))]((link unavailable))
+* JavaScript: [![JavaScript Badge]((link unavailable))]((link unavailable))
+* Python: [![Python Badge]((link unavailable))]((link unavailable))
+* SQL: [![SQL Badge]((link unavailable))]((link unavailable))
+* HTML: [![HTML Badge]((link unavailable))]((link unavailable))
+* CSS: [![CSS Badge]((link unavailable))]((link unavailable))
+
+##### Frameworks/Tools
+
+* SpringBoot: [![SpringBoot Badge]((link unavailable))]((link unavailable))
+* Spring MVC: [![Spring MVC Badge]((link unavailable))]((link unavailable))
+* Rest APIs: [![Rest API Badge]((link unavailable))]((link unavailable))
+* SOAP Services: [![SOAP Services Badge]((link unavailable))]((link unavailable))
+* React.js: [![React.js Badge]((link unavailable))]((link unavailable))
+* Node JS: [![Node JS Badge]((link unavailable))]((link unavailable))
+* Maven: [![Maven Badge]((link unavailable))]((link unavailable))
+* Gradle: [![Gradle Badge]((link unavailable))]((link unavailable))
+
+##### AI/ML
+
+* Scikit-Learn: [![Scikit-Learn Badge]((link unavailable))]((link unavailable))
+* PyTorch: [![PyTorch Badge]((link unavailable))]((link unavailable))
+* Keras: [![Keras Badge]((link unavailable))]((link unavailable))
+* Neural Networks: [![Neural Networks Badge]((link unavailable))]((link unavailable))
+* Deep Learning: [![Deep Learning Badge]((link unavailable))]((link unavailable))
+* Machine Learning: [![Machine Learning Badge]((link unavailable))]((link unavailable))
+
+##### DevOps
+
+* Git: [![Git Badge]((link unavailable))]((link unavailable))
+* Docker: [![Docker Badge]((link unavailable))]((link unavailable))
+* Kubernetes: [![Kubernetes Badge]((link unavailable))]((link unavailable))
+* Jenkins: [![Jenkins Badge]((link unavailable))]((link unavailable))
+* Jira: [![Jira Badge]((link unavailable))]((link unavailable))
+* JUnit: [![JUnit Badge]((link unavailable))]((link unavailable))
 
 ## **Experience** 📚
 
-* **Bank of America**  🏢
-	+ Contributed to the development of a machine learning model to predict customer churn and improve customer retention.
-* **IBM**  💻
-	+ Collaborated on a team to design and implement a cloud-based solution for a large-scale enterprise application.
-
+* **Application Developer (AI/ML) Internship, Bank of America, Toronto, Canada (Sep 2023 - Dec 2023)**  🏢
+	+ Implemented Report Time Execution Prediction using supervised learning models, reducing delays by 10%
+	+ Gained expertise in implementing predictive models using Scikit-Learn, PyTorch, and Keras, with a 95% accuracy rate
+* **Senior System Engineer, IBM, Remote, India (Sep 2021 – Dec 2022)**  💻
+	+ Successfully implemented Single Sign On (SSO), reducing login times by 70% (1500+ users impacted)
+ + Spearheaded the migration of legacy EJB applications, addressing security vulnerabilities and ensuring compliance
+* **System Engineer, Tata Consultancy Services (TCS), Bangalore, India (Jun 2019 – Sep 2021)**  💻
+	+Migrated the front-end of the application from Struts to Spring MVC, improving performance by 60% (2000+ users impacted)
+ + Led frontend and backend API development projects for 15+ banking clients, with a 95% client satisfaction rate
+ 
 ## **Contact Me** 📱
-
-
-
-
-
-#### Contact Information
 
 * **Email:** [jaskaur9b@gmail.com](mailto:jaskaur9b@gmail.com) 📧
 * **LinkedIn:** [https://www.linkedin.com/in/jaspreetkb/](https://www.linkedin.com/in/jaspreetkb/) 💼
 
 
-
-#### Summary
-
-Highly motivated and detail-oriented software engineer with a strong background in AI/ML and a proven track record of delivering high-quality solutions 🚀. Skilled in a range of programming languages, frameworks, and tools, with expertise in data structures, algorithms, and software engineering principles 💻. Proficient in DevOps and Agile methodologies, with experience leading teams and collaborating with cross-functional stakeholders 🤝.
-
-#### Technical Skills
-
-##### Programming Languages
-
-* Java: [![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-* JavaScript: [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-* Python: [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-* SQL: [![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
-* HTML: [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-* CSS: [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-
-##### Frameworks/Tools
-
-* SpringBoot: [![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-* Spring MVC: [![Spring MVC Badge](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/guides/gs/serving-web-content/)
-* Rest APIs: [![Rest API Badge](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi&logoColor=white)](https://www.restapitutorial.com/)
-* SOAP Services: [![SOAP Services Badge](https://img.shields.io/badge/SOAPServices-005571?style=for-the-badge&logo=soap&logoColor=white)](https://www.soapui.org/)
-* React.js: [![React.js Badge](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-* Node JS: [![Node JS Badge](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-* Maven: [![Maven Badge](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
-* Gradle: [![Gradle Badge](https://img.shields.io/badge/Gradle-023
