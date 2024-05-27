@@ -32,10 +32,10 @@ Highly motivated and detail-oriented software engineer with a strong background 
 	+ Gained expertise in implementing predictive models using Scikit-Learn, PyTorch, and Keras, with a 95% accuracy rate
 * **Senior System Engineer, IBM, Remote, India (Sep 2021 – Dec 2022)**  💻
 	+ Successfully implemented Single Sign On (SSO), reducing login times by 70% (1500+ users impacted)
- + Spearheaded the migration of legacy EJB applications, addressing security vulnerabilities and ensuring compliance
+ 	+ Spearheaded the migration of legacy EJB applications, addressing security vulnerabilities and ensuring compliance
 * **System Engineer, Tata Consultancy Services (TCS), Bangalore, India (Jun 2019 – Sep 2021)**  💻
-	+Migrated the front-end of the application from Struts to Spring MVC, improving performance by 60% (2000+ users impacted)
- + Led frontend and backend API development projects for 15+ banking clients, with a 95% client satisfaction rate
+	+ Migrated the front-end of the application from Struts to Spring MVC, improving performance by 60% (2000+ users impacted)
+ 	+ Led frontend and backend API development projects for 15+ banking clients, with a 95% client satisfaction rate
  
 ## **Contact Me** 📱
 
