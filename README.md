@@ -17,41 +17,13 @@ Highly motivated and detail-oriented software engineer with a strong background 
 	+ Created an algorithm to determine the shortest path between two points, minimizing distance and optimizing route efficiency.
 
 ## **Technical Skills** 🎯
-##### Languages
-
-* Java: [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)]()
-* JavaScript: [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DC6F?style=flat&logo=javascript&logoColor=black)]()
-* Python: [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
-* SQL: [![SQL Badge](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)]()
-* HTML: [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)]()
-* CSS: [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)]()
-
-##### Frameworks/Tools
-
-* SpringBoot: [![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)]()
-* Spring MVC: [![Spring MVC Badge](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)]()
-* Rest APIs: [![Rest API Badge](https://img.shields.io/badge/Rest%20API-005571?style=flat&logo=restapi&logoColor=white)]()
-* SOAP Services: [![SOAP Services Badge](https://img.shields.io/badge/SOAP%20Services-005571?style=flat&logo=soap&logoColor=white)]()
-* React.js: [![React.js Badge](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)]()
-* Node JS: [![Node JS Badge](https://img.shields.io/badge/Node%20JS-339933?style=flat&logo=node.js&logoColor=white)]()
-* Maven: [![Maven Badge](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=maven&logoColor=white)]()
-* Gradle: [![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)]()
-
-##### AI/ML
-
-* Scikit-Learn: [![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)]()
-* PyTorch: [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)]()
-* Keras: [![Keras Badge]()
 
 
-##### DevOps
-
-* Git: [![Git Badge](())](())
-* Docker: [![Docker Badge](())](())
-* Kubernetes: [![Kubernetes Badge](())](())
-* Jenkins: [![Jenkins Badge](())](())
-* Jira: [![Jira Badge](())](())
-* JUnit: [![JUnit Badge](())](())
+- **Languages:** Java, JavaScript, Python, SQL, HTML, CSS
+- **Frameworks/Tools:** SpringBoot, Spring MVC, Rest APIs, SOAP Services, React.js, Node JS, Maven, Gradle
+- **Devops:** Git, Docker, Kubernetes, Linux, Jenkins, Jira, JUnit
+- **Technical Skills:** Data Structure and Algorithms, Operating Systems, Machine Learning, Cyber Security
+- **Soft Skills:** Critical Thinking, Time Management, Communication, Teamwork, Leadership
 
 ## **Experience** 📚
 
